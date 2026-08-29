@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Fenly](https://fenly.me) - AI translation extension: translate as you type, auto-translate chats on 8 platforms, and live YouTube subtitle translation in 100+ languages.
 * [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
 * [Read Frog](https://github.com/mengxi-ream/read-frog) - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
+* [Trippi](https://chromewebstore.google.com/detail/eaheoieoelghhmebennamldmjmmfppjk) - Live translated subtitles for Google Meet, Zoom and Microsoft Teams. Runs its own speech recognition instead of re-translating platform captions, in 45 languages.
 * [yunit](https://yunit.app) - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
 
 ## News & Weather
